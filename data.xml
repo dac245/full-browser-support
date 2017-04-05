@@ -1,0 +1,74 @@
+<products>
+	<product>
+		<brand>apple</brand>
+		<type>Choose one</type>
+		<type>Tablets</type>
+		<type>All-in-one</type>
+		<type>Laptops</type>
+		<tablet>Choose one</tablet>
+		<tablet>iPad Pro</tablet>
+		<tablet>iPad Air 2</tablet>
+		<tablet>iPad Mini 4</tablet>
+		<aio>Choose one</aio>
+		<aio>iMac</aio>
+		<laptop>Choose one</laptop>
+		<laptop>Macbook</laptop>
+		<laptop>Macbook Air</laptop>
+		<laptop>Macbook Pro</laptop>
+	</product>
+
+	<product>
+		<brand>asus</brand>
+		<type>Choose one</type>
+		<type>Desktops</type>
+		<type>Tablets</type>
+		<type>Laptops</type>
+		<desktop>Choose one</desktop>
+		<desktop>M32AD</desktop>
+		<desktop>M52BC</desktop>
+		<desktop>M32BF</desktop>
+		<tablet>Choose one</tablet>
+		<tablet>Zenpad 10</tablet>
+		<tablet>Transformer Pad</tablet>
+		<tablet>VivoTab 8</tablet>
+		<laptop>Choose one</laptop>
+		<laptop>Zenbook Pro</laptop>
+		<laptop>K501UX</laptop>
+		<laptop>X555YA</laptop>
+	</product>
+
+	<product>
+		<brand>dell</brand>
+		<type>Choose one</type>
+		<type>Desktops</type>
+		<type>Laptops</type>
+		<desktop>Choose one</desktop>
+		<desktop>Inspiron</desktop>
+		<desktop>XPS</desktop>
+		<desktop>Alienware</desktop>
+		<laptop>Choose one</laptop>
+		<laptop>Inspiron 7000 Series</laptop>
+		<laptop>XPS 15</laptop>
+		<laptop>Chromebook 13</laptop>
+	</product>
+
+	<product>
+		<brand>hp</brand>
+		<type>Choose one</type>
+		<type>Desktops</type>
+		<type>Laptops</type>
+		<type>Printers</type>
+		<desktop>Choose one</desktop>
+		<desktop>Envy</desktop>
+		<desktop>Omen</desktop>
+		<desktop>Pavilion</desktop>
+		<laptop>Choose one</laptop>
+		<laptop>Elitebook 820 G2</laptop>
+		<laptop>Elitebook Folio 1020 G1</laptop>
+		<laptop>Spectre</laptop>
+		<printer>Choose one</printer>
+		<printer>OfficeJet Pro</printer>
+		<printer>OfficeJet 4650</printer>
+		<printer>Envy 7640</printer>
+	</product>
+</products>

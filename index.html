@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+	<title>Compter Brands</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+	<script src="assets/js/dynamic.js"></script>
+	<script src="assets/js/cookies.js"></script>
+	<script src="assets/js/chkCookies.js"></script>
+	<link href="assets/css/main.css" type="text/css" rel="stylesheet"/>
+</head>
+<body onload="init();">
+<script> var oldIE = false; </script><!-- IE flag to see if it is and old version -->
+<!--[if lt IE 7]>
+<script type='text/javascript'>
+        oldIE = true;
+    </script>
+<![endif]-->
+	
+	<!-- This is the header which will show stored cookies or items and is where users submit their information -->
+	<div id="styleMe">
+		<div id="storage"></div>
+   </div>
+   
+   <!-- For style purposes -->
+   <div id="spacing"></div> 
+   
+   <!-- Start of the select options -->
+	<h1>Please select your preferred computer brand</h1>
+	<select id="brand" onchange="getSelected()">
+		<option value="none">Choose one</option>
+		<option value="apple">Apple</option>
+		<option value="asus">Asus</option>
+		<option value="dell">Dell</option>
+		<option value="hp">Hp</option>
+	</select>
+	
+	<img id="picbrand" src="" alt=""/>
+	
+</body>
+</html>

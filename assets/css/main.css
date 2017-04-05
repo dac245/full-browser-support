@@ -1,0 +1,74 @@
+body{
+	margin: auto;
+	background-color: #E4F1E2;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+	position: relative;
+	float: right;
+}
+
+h1{
+	position: relative;
+	margin: 5px;
+}
+
+select{
+	margin: 5px;
+	position: relative;
+}
+
+p{
+	position: relative;
+}
+
+#spacing{
+	margin-top: 70px;
+}
+
+#styleMe{
+	position: fixed;
+	background-color: #580810;
+	top: 0;
+	width: 100%;
+	font-size: 20px;
+	z-index: 1;
+	border: 2px solid black;
+	color: #E4F1E2;
+}
+
+#storage{
+	float: left;
+	padding: 10px;
+}
+
+#userInput{
+	float: right;
+	padding: 10px;
+}
+
+#custMsg{
+	font-size: 30px;
+}
+
+#winPop{
+  background: #FFF;
+  padding: 20px;
+  width: 60%;
+  max-width: 700px;
+  margin: 10px auto;
+}
+
+#styleDiv1{
+	padding: 10px;
+}
+
+#styleDiv2{
+	padding: 10px;
+}
+
+#styleBtn{
+	margin-left: 15px;
+}
